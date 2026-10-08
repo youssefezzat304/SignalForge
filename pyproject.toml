@@ -1,0 +1,6 @@
+[project]
+name = "signalforge"
+version = "0.1.0"
+description = "Industrial equipment monitoring and maintenance learning project"
+requires-python = ">=3.12"
+dependencies = []
